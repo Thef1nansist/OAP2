@@ -1,0 +1,34 @@
+﻿Сборка начата 20.05.2020 15:33:33.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab14_OAP.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Lab14_OAP.cpp
+         Lab14_OAP.cpp
+     1>C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(29,6): warning C4101: k: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(66,12): warning C4101: k: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(80,9): warning C4101: j: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(175,6): warning C4101: k: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(190,12): warning C4101: k: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vlad\OAP2\Lab14_OAP\Debug\Lab14_OAP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Vlad\OAP2\Lab14_OAP\Debug\Lab14_OAP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vlad\OAP2\Lab14_OAP\Debug\Lab14_OAP.lib" /MACHINE:X86 Debug\Lab14_OAP.obj
+         Lab14_OAP.vcxproj -> C:\Users\Vlad\OAP2\Lab14_OAP\Debug\Lab14_OAP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab14_OAP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab14_OAP.tlog\Lab14_OAP.lastbuildstate".
+     1>Сборка проекта "C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(29,6): warning C4101: k: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(66,12): warning C4101: k: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(80,9): warning C4101: j: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(175,6): warning C4101: k: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\Lab14_OAP\Lab14_OAP.cpp(190,12): warning C4101: k: неиспользованная локальная переменная
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:07.78

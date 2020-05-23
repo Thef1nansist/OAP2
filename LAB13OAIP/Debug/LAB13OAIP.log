@@ -1,0 +1,21 @@
+﻿Сборка начата 05.05.2020 10:31:10.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Vlad\OAP2\LAB13OAIP\LAB13OAIP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LAB13OAIP.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt LAB13OAIP.cpp
+         LAB13OAIP.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vlad\OAP2\LAB13OAIP\Debug\LAB13OAIP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Vlad\OAP2\LAB13OAIP\Debug\LAB13OAIP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vlad\OAP2\LAB13OAIP\Debug\LAB13OAIP.lib" /MACHINE:X86 Debug\Heap.obj
+         Debug\LAB13OAIP.obj
+         LAB13OAIP.vcxproj -> C:\Users\Vlad\OAP2\LAB13OAIP\Debug\LAB13OAIP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LAB13OAIP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LAB13OAIP.tlog\LAB13OAIP.lastbuildstate".
+     1>Сборка проекта "C:\Users\Vlad\OAP2\LAB13OAIP\LAB13OAIP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.53

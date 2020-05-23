@@ -1,0 +1,27 @@
+﻿Сборка начата 29.04.2020 15:55:11.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Vlad\OAP2\12OAP\12OAP.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\12OAP.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>C:\Users\Vlad\OAP2\12OAP\Source.cpp(224): warning C4715: Tree::Balance: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vlad\OAP2\12OAP\Debug\12OAP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Vlad\OAP2\12OAP\Debug\12OAP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vlad\OAP2\12OAP\Debug\12OAP.lib" /MACHINE:X86 Debug\12OAP.obj
+         Debug\Source.obj
+         12OAP.vcxproj -> C:\Users\Vlad\OAP2\12OAP\Debug\12OAP.exe
+       FinalizeBuildStatus:
+         Файл "Debug\12OAP.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\12OAP.tlog\12OAP.lastbuildstate".
+     1>Сборка проекта "C:\Users\Vlad\OAP2\12OAP\12OAP.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Vlad\OAP2\12OAP\12OAP.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Vlad\OAP2\12OAP\Source.cpp(224): warning C4715: Tree::Balance: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:03.19

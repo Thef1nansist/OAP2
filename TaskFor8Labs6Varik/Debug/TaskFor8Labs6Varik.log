@@ -1,0 +1,28 @@
+﻿Сборка начата 15.04.2020 16:02:30.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\TaskFor8.8D36D86D.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt TaskFor8Labs6Varik.cpp
+         TaskFor8Labs6Varik.cpp
+     1>C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.cpp(188,7): warning C4101: b: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.cpp(187,6): warning C4101: i: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\Debug\TaskFor8Labs6Varik.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\Debug\TaskFor8Labs6Varik.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\Debug\TaskFor8Labs6Varik.lib" /MACHINE:X86 Debug\TaskFor8Labs6Varik.obj
+         TaskFor8Labs6Varik.vcxproj -> C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\Debug\TaskFor8Labs6Varik.exe
+       FinalizeBuildStatus:
+         Файл "Debug\TaskFor8.8D36D86D.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\TaskFor8.8D36D86D.tlog\TaskFor8Labs6Varik.lastbuildstate".
+     1>Сборка проекта "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.cpp(188,7): warning C4101: b: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\TaskFor8Labs6Varik.cpp(187,6): warning C4101: i: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:03.69

@@ -1,0 +1,33 @@
+﻿Сборка начата 15.04.2020 15:48:13.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "Debug\OAP_list.cpp.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\OAP_list.cpp.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt List.cpp OAP_list.cpp.cpp
+         List.cpp
+         OAP_list.cpp.cpp
+     1>C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.cpp(9,7): warning C4101: s: неиспользованная локальная переменная
+     1>C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.cpp(9,19): warning C4101: c: неиспользованная локальная переменная
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\Debug\OAP_list.cpp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\Debug\OAP_list.cpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\Debug\OAP_list.cpp.lib" /MACHINE:X86 Debug\List.obj
+         Debug\OAP_list.cpp.obj
+         OAP_list.cpp.vcxproj -> C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\Debug\OAP_list.cpp.exe
+       FinalizeBuildStatus:
+         Файл "Debug\OAP_list.cpp.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OAP_list.cpp.tlog\OAP_list.cpp.lastbuildstate".
+     1>Сборка проекта "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.cpp(9,7): warning C4101: s: неиспользованная локальная переменная
+         C:\Users\Vlad\OAP2\TaskFor8Labs6Varik\dop\OAP_list.cpp\OAP_list.cpp.cpp(9,19): warning C4101: c: неиспользованная локальная переменная
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:08.59
